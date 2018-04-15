@@ -25,7 +25,7 @@ function draw() {
   ellipse(100, 100, 200, 200)
 
   stroke("#ada493")
-  fill("#d6c8ab")
+  fill("#pink")
   rect(450, y + 250, 200, 200)
 
   triangle(380, y + 250, 720, y + 250, 550, y + 100)
